@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/erikopa/employee_manager_app.svg?branch=master)](https://travis-ci.org/erikopa/employee_manager_app)
+
+# Luizalabs Employee Manager
+
 ## Como configurar
 
 1. Clone o repositório
