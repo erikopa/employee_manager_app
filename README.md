@@ -16,7 +16,7 @@ git clone git@github.com:erikopa/employee_manager_app.git employee_manager_app
 cd employee_manager_app
 python -m venv .venv
 source .venv/bin/activate
-pip install -r requirements-dev.txt
+pip install -r requirements.txt
 cp contrib/env-sample .env
 python manage.py test
 ```
