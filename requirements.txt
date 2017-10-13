@@ -3,6 +3,8 @@ chardet==3.0.4
 coreapi==2.3.1
 coreschema==0.0.4
 dj-database-url==0.4.2
+dj-static==0.0.6
+static3==0.7.0
 Django==1.11.4
 django-filter==1.0.4
 django-test-without-migrations==0.6
