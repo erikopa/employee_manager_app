@@ -8,14 +8,14 @@ static3==0.7.0
 Django==1.11
 django-filter==1.0.4
 django-test-without-migrations==0.6
-djangorestframework==3.6.3
+djangorestframework==3.9.1
 idna==2.5
 itypes==1.1.0
-Jinja2==2.9.6
+Jinja2>=2.10.1
 Markdown==2.6.8
 MarkupSafe==1.0
 python-decouple==3.0
 pytz==2017.2
 requests==2.20.0
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.24.2
