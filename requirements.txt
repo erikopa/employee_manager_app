@@ -8,7 +8,7 @@ static3==0.7.0
 Django==1.11.29
 django-filter==1.0.4
 django-test-without-migrations==0.6
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 idna==2.5
 itypes==1.1.0
 Jinja2>=2.10.1
