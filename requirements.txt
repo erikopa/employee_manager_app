@@ -5,7 +5,7 @@ coreschema==0.0.4
 dj-database-url==0.4.2
 dj-static==0.0.6
 static3==0.7.0
-Django==2.2.24
+Django==2.2.27
 django-filter==1.0.4
 django-test-without-migrations==0.6
 djangorestframework==3.11.2
